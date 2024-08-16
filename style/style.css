@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: plum;
+    color:rgb(241, 215, 241);
+}
+
+.clock {
+    font-size: 60px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color:rgb(161, 30, 161);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+#time {
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 10px;
+}
